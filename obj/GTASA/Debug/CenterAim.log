@@ -1,7 +1,0 @@
-﻿  Main.cpp
-C:\_VSFiles\SDK\plugin-sdk\tools\myplugin-gen\generated\CenterAim\source\Main.cpp(41,27): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  CenterAim.vcxproj -> C:\_VSFiles\SDK\plugin-sdk\tools\myplugin-gen\generated\CenterAim\bin\GTASA\Debug\CenterAim.SA.asi
-  
-  INFORMAÇÕES: nenhuma tarefa em execução com os critérios especificados.
-  C:\_VSFiles\SDK\plugin-sdk\tools\myplugin-gen\generated\CenterAim\bin\GTASA\Debug\CenterAim.SA.asi
-  1 arquivo(s) copiado(s)
